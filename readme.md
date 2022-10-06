@@ -1,6 +1,6 @@
-Пробую создать простой проект на fastapi c использованием postgresql
+Пробую создать простой проект на fastapi c использованием postgresql и alembic
 
-Самые важные команды
+Основные команды
 ```
 alembic init migrations
 
